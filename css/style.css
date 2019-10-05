@@ -1,0 +1,118 @@
+body {
+  background-color: white;
+  margin: 0px;
+}
+
+div {
+  text-align: center;
+}
+
+.first {
+  background-image: url("https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg");
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  color: white;
+  font-weight: 900;
+  padding: 50px 200px 200px 200px;
+}
+
+.second {
+  background-color: white;
+}
+
+.golden {
+  color: #ecc02f;
+  font-size: 42px;
+  font-family: 'Satisfy';
+  margin-top: 0px;
+}
+
+a {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  padding-left: 30px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.col-5 {
+  margin-top: 40px;
+  margin-left: -300px;
+}
+
+h1 {
+  font-size: 46px;
+  padding-top: 200px;
+}
+
+h2 {
+  font-size: 90px;
+}
+
+button {
+  color: white;
+  background-color: #ecc02f;
+  font-size: 26px;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+}
+
+h3 {
+  padding: 140px 0 10px;
+  margin-bottom: 0;
+  font-size: 44px;
+}
+
+h5 {
+  margin: 0;
+  padding: 0 0 100px;
+  color: #b4b4b4;
+  font-size: 18px;
+}
+
+p {
+  color: #b4b4b4;
+  font-size: 18px;
+  padding-bottom: 140px;
+}
+
+p1 {
+  color: #b4b4b4;
+  font-size: 18px;
+}
+
+.fas {
+  Font-size: 56px;
+  color: #ecc02f;
+}
+
+.portfolio {
+  background-color: #f7f7f7;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+img {
+  height: auto;
+  max-width: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.fab {
+  font-size: 32px;
+  color: #5e5e5e;
+  margin: 0;
+  padding: 0;
+}
+
+.icons {
+  text-align: left;
+}
+/*# sourceMappingURL=style.css.map */

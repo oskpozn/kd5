@@ -1,0 +1,115 @@
+body {
+    background-color: white;
+    margin: 0px;
+}
+
+div {
+    text-align: center;
+}
+
+.first {
+    background-image: url('https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg');
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-weight: 900;
+    padding: 50px 200px 200px 200px;
+}
+
+.second {
+    background-color: white;
+}
+
+.golden {
+    color: rgb(236, 192, 47);
+    font-size: 42px;
+    font-family: 'Satisfy';
+    margin-top: 0px;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.col-5 {
+    margin-top: 40px;
+    margin-left: -300px;
+}
+
+h1 {
+    font-size: 46px;
+    padding-top: 200px;
+}
+
+h2 {
+    font-size: 90px;
+}
+
+button {
+    color: white;
+    background-color: rgb(236, 192, 47);
+    font-size: 26px;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    padding: 140px 0 10px;
+    margin-bottom: 0;
+    font-size: 44px;
+}
+
+h5 {
+    margin: 0;
+    padding: 0 0 100px;
+    color: rgb(180, 180, 180);
+    font-size: 18px;
+}
+
+p {
+    color: rgb(180, 180, 180);
+    font-size: 18px;
+    padding-bottom: 140px;
+}
+
+p1 {
+    color: rgb(180, 180, 180);
+    font-size: 18px;
+}
+
+.fas {
+    Font-size: 56px;
+    color: rgb(236, 192, 47);
+}
+
+.portfolio {
+    background-color: rgb(247, 247, 247);
+    margin-top: 0;
+    padding-top: 0;
+}
+
+img {
+    height: auto;
+    max-width: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.fab {
+    font-size: 32px;
+    color: rgb(94, 94, 94);
+    margin: 0;
+    padding: 0;
+}
+
+.icons {
+    text-align: left;
+}
